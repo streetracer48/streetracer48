@@ -5,7 +5,7 @@ Currently I'm **looking for contributions** for following projects:
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/streetracer48) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=streetracer48.visitor-badge)](https://github.com/streetracer48) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/streetracer48)
 
 
-|      Project :octocat:   | Open PRs :bell:  | Closed PRs :fire:  |
+|      Project :octocat:   | Open PRs :bell:  | Closed PRs :evergreen_tree:  |
 |-------------|-------------------|---|---|
 
 | [**MultipleDocker Deploy AWS**](https://github.com/streetracer48/MultipleDocker-Deploy-AWS/) | [![GitHub PRs](https://img.shields.io/github/issues-pr/streetracer48/MultipleDocker-Deploy-AWS?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/streetracer48/MultipleDocker-Deploy-AWS?style=flat&color=critical&logo=github)](https://github.com/streetracer48/MultipleDocker-Deploy-AWS/pulls?q=is%3Apr+is%3Aclosed)   |
