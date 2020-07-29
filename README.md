@@ -1,7 +1,5 @@
-
-<h2>Hello, I'm Karim! <img src="https://media.giphy.com/media/SRO0ZwmImic0/giphy.gif" width="50"></h2>
-<p><em>Software Engineer at <a href="https://csit.fi/">CSIT Finland oy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 Currently I'm **looking for contributions** for following projects:
 
