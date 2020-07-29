@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://cliply.co/wp-content/uploads/2020/02/392002770_ROCKET_EMOJI_400px.gif" width="50">
 
-Currently I'm **looking for contributions** for following projects:
+
+
+Currently I'm **looking for contributions** for following projects: 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/streetracer48) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=streetracer48.visitor-badge)](https://github.com/streetracer48) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/streetracer48)
 
