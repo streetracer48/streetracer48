@@ -1,8 +1,6 @@
 <h2>Hello, I'm Karim! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://csit.fi/">CSIT Finland Oy.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
- 
+<p><em>Software Engineer at <a href="https://csit.fi/">CSIT Finland Oy.</a>
 Currently I'm **looking for contributions** for following projects:
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/streetracer48) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=streetracer48.visitor-badge)](https://github.com/streetracer48) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/streetracer48)
