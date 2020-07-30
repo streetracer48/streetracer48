@@ -1,4 +1,4 @@
-### Hi there <img src="https://cliply.co/wp-content/uploads/2020/02/392002770_ROCKET_EMOJI_400px.gif" width="50">
+### Hi there 👋
 
 
 
